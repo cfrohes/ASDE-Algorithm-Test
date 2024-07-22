@@ -45,11 +45,12 @@ Given:
 # Test Cases
 # Test Case 1
 
-    Enemy Powers: [5, 10, 20, 15, 30, 25, 40, 35, 45, 50, 60]
-    Abhimanyu's Initial Power: 100
-    Skips: 2
-    Recharges: 3
-    Expected Result: Abhimanyu can cross the Chakravyuha.
+   - Enter powers of enemies in 11 circles: 
+    5 10 20 15 30 25 40 35 45 50 60
+   - Enter Abhimanyu's initial power: 200
+   - Enter the number of skips: 3
+   - Enter the number of recharges: 5
+   - Expected Result:Abhimanyu can cross the Chakravyuha.
  =====================================================================================
 # Test Case 2
 
